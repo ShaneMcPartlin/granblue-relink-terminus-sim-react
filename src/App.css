@@ -1,0 +1,55 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 8px;
+}
+
+.dimmed {
+  transition: 0.5s ease;
+  filter: brightness(0.375);
+}
+
+.two-col-flex {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: center;
+  align-content: stretch;
+}
+
+.thumbnail-container {
+  position: relative;
+  display: inline;
+}
+
+.weapon-pic {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 50px;
+  z-index: 1;
+  filter: saturate(4);
+  filter: drop-shadow(0 0 5px #00e1ff);
+}
+
+.text-log {
+  height: 532px;
+  width: 832px;
+  overflow-y: scroll;
+}

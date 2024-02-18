@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Gran/Djeeta",
+    "characterImg": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_djeeta.png?20240208083559",
+    "weaponImg": "https://gbf.wiki/images/thumb/7/71/Seven-Star_Sword.png/462px-Seven-Star_Sword.png",
+    "unlocked": true,
+    "hasWeapon": false
+  },
+  {
+    "name": "Katalina",
+    "characterImg": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_katalina.png?20240208083559",
+    "weaponImg": "https://gbf.wiki/images/thumb/3/33/Weapon_b_1040008700.png/462px-Weapon_b_1040008700.png",
+    "unlocked": true,
+    "hasWeapon": false
+  },
+  {
+    "name": "Rackam",
+    "characterImg": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_rackam.png?20240208083559",
+    "weaponImg": "https://gbf.wiki/images/thumb/4/41/Freikugel.png/462px-Freikugel.png",
+    "unlocked": true,
+    "hasWeapon": false
+  },
+  {
+    "name": "Io",
+    "characterImg": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_io.png?20240208083559",
+    "weaponImg": "https://gbf.wiki/images/thumb/a/ae/Weapon_b_1040404300.png/462px-Weapon_b_1040404300.png",
+    "unlocked": true,
+    "hasWeapon": false
+  },
+  {
+    "name": "Eugen",
+    "characterImg": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_eugen.png?20240208083559",
+    "weaponImg": "https://gbf.wiki/images/thumb/c/c9/Weapon_b_1040512300.png/462px-Weapon_b_1040512300.png",
+    "unlocked": true,
+    "hasWeapon": false
+  },
+  {
+    "name": "Rosetta",
+    "characterImg": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_rosetta.png?20240208083559",
+    "weaponImg": "https://gbf.wiki/images/thumb/0/05/Weapon_b_1040106700.png/462px-Weapon_b_1040106700.png",
+    "unlocked": true,
+    "hasWeapon": false
+  },
+  {
+    "name": "Lancelot",
+    "characterImg": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_lancelot.png?20240208083559",
+    "weaponImg": "https://gbf.wiki/images/thumb/0/07/Damascus_Knife.png/462px-Damascus_Knife.png",
+    "unlocked": false,
+    "hasWeapon": false
+  },
+  {
+    "name": "Vane",
+    "characterImg": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_vane.png?20240208083559",
+    "weaponImg": "https://gbf.wiki/images/thumb/2/25/Mjolnir.png/462px-Mjolnir.png",
+    "unlocked": false,
+    "hasWeapon": false
+  },
+  {
+    "name": "Percival",
+    "characterImg": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_percival.png?20240208083559",
+    "weaponImg": "https://gbf.wiki/images/thumb/7/73/Weapon_b_1040016000.png/462px-Weapon_b_1040016000.png",
+    "unlocked": false,
+    "hasWeapon": false
+  },
+  {
+    "name": "Siegfried",
+    "characterImg": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_siegfried.png?20240208083559",
+    "weaponImg": "https://gbf.wiki/images/thumb/6/6b/Weapon_b_1040002300.png/462px-Weapon_b_1040002300.png",
+    "unlocked": false,
+    "hasWeapon": false
+  },
+  {
+    "name": "Charlotta",
+    "characterImg": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_charlotta.png?20240208083559",
+    "weaponImg": "https://granbluefantasyrelink.wiki.fextralife.com/file/Granblue-Fantasy-Relink/galatine-weapon-granblue-fantasy-relink-wiki-guide-300px.png",
+    "unlocked": false,
+    "hasWeapon": false
+  },
+  {
+    "name": "Yodarha",
+    "characterImg": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_yodarha.png?20240208083559",
+    "weaponImg": "https://gbf.wiki/images/thumb/1/1d/Weapon_b_1040902300.png/462px-Weapon_b_1040902300.png",
+    "unlocked": false,
+    "hasWeapon": false
+  },
+  {
+    "name": "Narmaya",
+    "characterImg": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_narmaya.png?20240208083559",
+    "weaponImg": "https://gbf.wiki/images/thumb/1/11/Ameno_Habakiri.png/462px-Ameno_Habakiri.png",
+    "unlocked": false,
+    "hasWeapon": false
+  },
+  {
+    "name": "Zeta",
+    "characterImg": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_zeta.png?20240208083559",
+    "weaponImg": "https://gbf.wiki/images/thumb/f/f9/Gae_Bulg.png/462px-Gae_Bulg.png",
+    "unlocked": false,
+    "hasWeapon": false
+  },
+  {
+    "name": "Vaseraga",
+    "characterImg": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_vaseraga.png?20240208083559",
+    "weaponImg": "https://gbf.wiki/images/thumb/e/ef/Weapon_b_1040315100.png/462px-Weapon_b_1040315100.png",
+    "unlocked": false,
+    "hasWeapon": false
+  },
+  {
+    "name": "Ferry",
+    "characterImg": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_ferry.png?20240208083559",
+    "weaponImg": "https://gbf.wiki/images/thumb/2/2c/Weapon_b_1040006100.png/462px-Weapon_b_1040006100.png",
+    "unlocked": false,
+    "hasWeapon": false
+  },
+  {
+    "name": "Ghandagoza",
+    "characterImg": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_ghandagoza.png?20240208083559",
+    "weaponImg": "https://gbf.wiki/images/thumb/4/4f/Sky_Piercer.png/462px-Sky_Piercer.png",
+    "unlocked": false,
+    "hasWeapon": false
+  },
+  {
+    "name": "Cagliostro",
+    "characterImg": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_cagliostro.png?20240208083559",
+    "weaponImg": "https://gbf.wiki/images/thumb/d/d6/Weapon_b_1040420000.png/462px-Weapon_b_1040420000.png",
+    "unlocked": false,
+    "hasWeapon": false
+  },
+  {
+    "name": "Id",
+    "characterImg": "https://relink.granbluefantasy.jp/assets/images/common/common/characters/nav_id.png?20240208083559",
+    "weaponImg": "https://gbf.wiki/images/thumb/1/17/Weapon_b_1030004400.png/462px-Weapon_b_1030004400.png",
+    "unlocked": false,
+    "hasWeapon": false
+  }
+]
